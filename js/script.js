@@ -1,9 +1,6 @@
-// JavaScript Document
-
-
 
 $(document).ready(function(){ //jQuery Start
 
-//put all jQuery code here
-
-});
+    //put all jQuery code here
+    
+    });
